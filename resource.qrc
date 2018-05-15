@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/resources"/>
+    <qresource prefix="/">
+        <file>Resources/tesseraFinale.png</file>
+    </qresource>
+</RCC>
